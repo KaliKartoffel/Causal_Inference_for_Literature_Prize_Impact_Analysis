@@ -1,0 +1,783 @@
+{
+    "Pulitzer Prize for Fiction": {
+        "olive kitteridge": {
+            "title": "olive kitteridge",
+            "ATE": 0.10486183059974552,
+            "CI_low": -0.08489873051070651,
+            "CI_high": 0.32428720053120186
+        },
+        "tinkers": {
+            "title": "tinkers",
+            "ATE": 0.38143813032134144,
+            "CI_low": 0.3284978185701828,
+            "CI_high": 0.4485004651664335
+        },
+        "a visit from the goon squad": {
+            "title": "a visit from the goon squad",
+            "ATE": -0.39041297670015584,
+            "CI_low": -0.47065010549645336,
+            "CI_high": -0.3024725187099171
+        },
+        "the orphan master's son": {
+            "title": "the orphan master's son",
+            "ATE": 0.04972045820875026,
+            "CI_low": -0.009916785403400574,
+            "CI_high": 0.1202118215999417
+        },
+        "the goldfinch": {
+            "title": "the goldfinch",
+            "ATE": -0.21278057405366457,
+            "CI_low": -0.2747671544696577,
+            "CI_high": -0.15458169655272247
+        },
+        "all the light we cannot see": {
+            "title": "all the light we cannot see",
+            "ATE": -0.052255248310712155,
+            "CI_low": -0.06580502329114335,
+            "CI_high": -0.03837878840203235
+        }
+    },
+    "National Book Award": {
+        "let the great world spin": {
+            "title": "let the great world spin",
+            "ATE": 0.09799542585593901,
+            "CI_low": 0.02855712056079751,
+            "CI_high": 0.18632813004925763
+        },
+        "this is how you lose her": {
+            "title": "this is how you lose her",
+            "ATE": -0.2579749216303049,
+            "CI_low": -0.6353572937366248,
+            "CI_high": 0.2086997878319461
+        },
+        "the goldfinch": {
+            "title": "the goldfinch",
+            "ATE": -0.25002509566265374,
+            "CI_low": -0.4327422755882111,
+            "CI_high": -0.1553823084215975
+        },
+        "redeployment": {
+            "title": "redeployment",
+            "ATE": -0.21944271769974621,
+            "CI_low": -0.27472362213434387,
+            "CI_high": -0.14515432589431443
+        },
+        "between the world and me": {
+            "title": "between the world and me",
+            "ATE": -0.2460639326937013,
+            "CI_low": -0.3727503519268014,
+            "CI_high": -0.09704863977701095
+        },
+        "the underground railroad": {
+            "title": "the underground railroad",
+            "ATE": 1.7909544563192137,
+            "CI_low": 1.5961568837987428,
+            "CI_high": 2.017135264532501
+        }
+    },
+    "Hugo Award": {
+        "the graveyard book": {
+            "title": "the graveyard book",
+            "ATE": -0.12219361290077213,
+            "CI_low": -0.17137198088618355,
+            "CI_high": -0.0746440995574611
+        },
+        "the city & the city": {
+            "title": "the city & the city",
+            "ATE": -0.0620963176810454,
+            "CI_low": -0.10844179228619355,
+            "CI_high": -0.018757083842436018
+        },
+        "the windup girl": {
+            "title": "the windup girl",
+            "ATE": 0.015257980313263086,
+            "CI_low": -0.11593361645127587,
+            "CI_high": 0.11068699363639922
+        },
+        "among others": {
+            "title": "among others",
+            "ATE": -0.16565881438639085,
+            "CI_low": -0.1910110011814452,
+            "CI_high": -0.14499836927594734
+        },
+        "redshirts: a novel with three codas": {
+            "title": "redshirts: a novel with three codas",
+            "ATE": 0.12589753823673488,
+            "CI_low": 0.11582293898388185,
+            "CI_high": 0.13614270777420234
+        },
+        "the three body problem": {
+            "title": "the three body problem",
+            "ATE": 0.925439363668568,
+            "CI_low": 0.8508787273371348,
+            "CI_high": 1.0610056104832664
+        }
+    },
+    "Deutscher Buchpreis": {},
+    "Booker Prize": {
+        "bring up the bodies": {
+            "title": "bring up the bodies",
+            "ATE": -0.564770706264424,
+            "CI_low": -0.7922542461439157,
+            "CI_high": -0.4264626841754042
+        },
+        "the narrow road to the deep north": {
+            "title": "the narrow road to the deep north",
+            "ATE": -7.5223584539152455e-06,
+            "CI_low": -0.07551428715965347,
+            "CI_high": 0.062239503944543806
+        },
+        "a brief history of seven killings": {
+            "title": "a brief history of seven killings",
+            "ATE": -0.05878625392266423,
+            "CI_low": -0.08073559035499889,
+            "CI_high": -0.037487175788265326
+        }
+    },
+    "Literature Nobel Prize": {
+        "the feast of the goat": {
+            "title": "the feast of the goat",
+            "ATE": -0.02957036743364938,
+            "CI_low": -0.12077125524076626,
+            "CI_high": 0.07362577630850353
+        },
+        "conversation in the cathedral": {
+            "title": "conversation in the cathedral",
+            "ATE": -0.016469574665135767,
+            "CI_low": -0.06309460756384278,
+            "CI_high": 0.047304878477850476
+        },
+        "the half-finished heaven": {
+            "title": "the half-finished heaven",
+            "ATE": -0.6334933433705956,
+            "CI_low": -0.6969079334599204,
+            "CI_high": -0.5825926171211089
+        },
+        "red sorghum": {
+            "title": "red sorghum",
+            "ATE": -0.357163426771574,
+            "CI_low": -0.39007289589296246,
+            "CI_high": -0.325199156502082
+        },
+        "frog": {
+            "title": "frog",
+            "ATE": -0.03346437236806166,
+            "CI_low": -0.13587335225824937,
+            "CI_high": 0.04459721445505416
+        },
+        "too much happiness": {
+            "title": "too much happiness",
+            "ATE": 0.09037318864731692,
+            "CI_low": 0.0800051737252705,
+            "CI_high": 0.10188738598305003
+        },
+        "the love of a good woman": {
+            "title": "the love of a good woman",
+            "ATE": 0.18794569671564654,
+            "CI_low": 0.14806419495577883,
+            "CI_high": 0.2380942380321085
+        },
+        "dora bruder": {
+            "title": "dora bruder",
+            "ATE": -0.43853104596667647,
+            "CI_low": -0.48223957458210354,
+            "CI_high": -0.3960565729037655
+        },
+        "honeymoon": {
+            "title": "honeymoon",
+            "ATE": -0.001225705648338682,
+            "CI_low": -0.017121262549584237,
+            "CI_high": 0.015469149010296057
+        }
+    },
+    "Goodreads Choice Awards": {
+        "the help": {
+            "title": "the help",
+            "ATE": -0.13051068857380166,
+            "CI_low": -0.1756119925841686,
+            "CI_high": -0.0923353212836373
+        },
+        "batman: whatever happened to the caped crusader?": {
+            "title": "batman: whatever happened to the caped crusader?",
+            "ATE": -0.0303197633695258,
+            "CI_low": -0.25532731748853754,
+            "CI_high": 0.20359348155082246
+        },
+        "columbine": {
+            "title": "columbine",
+            "ATE": 0.04900310067553004,
+            "CI_low": 0.020685712891748587,
+            "CI_high": 0.06983623268730454
+        },
+        "leviathan": {
+            "title": "leviathan",
+            "ATE": -0.18917425671595423,
+            "CI_low": -0.2373648193264346,
+            "CI_high": -0.14199643627869385
+        },
+        "along for the ride": {
+            "title": "along for the ride",
+            "ATE": 0.07543000310952896,
+            "CI_low": -0.046385479048073996,
+            "CI_high": 0.17418523280731568
+        },
+        "the last song": {
+            "title": "the last song",
+            "ATE": 0.28991416782568047,
+            "CI_low": 0.07152505680864207,
+            "CI_high": 0.45102996270244944
+        },
+        "blueberry girl": {
+            "title": "blueberry girl",
+            "ATE": -0.11766836985232931,
+            "CI_low": -0.2016128109189541,
+            "CI_high": -0.011099958091569384
+        },
+        "room": {
+            "title": "room",
+            "ATE": -0.022883923325141886,
+            "CI_low": -0.15321925788165913,
+            "CI_high": 0.07172740342445394
+        },
+        "the immortal life of henrietta lacks": {
+            "title": "the immortal life of henrietta lacks",
+            "ATE": -0.09832228065240933,
+            "CI_low": -0.11280316456059936,
+            "CI_high": -0.08224626251297718
+        },
+        "the tudors": {
+            "title": "the tudors",
+            "ATE": 0.03353961208289258,
+            "CI_low": -0.22601633475073202,
+            "CI_high": 0.26248697360259765
+        },
+        "feed": {
+            "title": "feed",
+            "ATE": -0.09811669624680563,
+            "CI_low": -0.11356358248697385,
+            "CI_high": -0.07744469481024163
+        },
+        "before i fall": {
+            "title": "before i fall",
+            "ATE": -0.26530602101948464,
+            "CI_low": -0.3021594997102741,
+            "CI_high": -0.2289473787216667
+        },
+        "it's a book": {
+            "title": "it's a book",
+            "ATE": -0.08075016233920707,
+            "CI_low": -0.18884522222045153,
+            "CI_high": 0.06528920859169496
+        },
+        "1q84": {
+            "title": "1q84",
+            "ATE": -0.00936613261976893,
+            "CI_low": -0.09797199582175109,
+            "CI_high": 0.12099234280296889
+        },
+        "the paris wife": {
+            "title": "the paris wife",
+            "ATE": -0.09211427014666107,
+            "CI_low": -0.14862812356908872,
+            "CI_high": -0.031514892148823304
+        },
+        "steve jobs": {
+            "title": "steve jobs",
+            "ATE": 0.780104636031766,
+            "CI_low": -0.1776572871458253,
+            "CI_high": 1.5381664027780335
+        },
+        "graveminder": {
+            "title": "graveminder",
+            "ATE": -0.13071387935984413,
+            "CI_low": -0.24474976210712374,
+            "CI_high": -0.025134820524398638
+        },
+        "bossypants": {
+            "title": "bossypants",
+            "ATE": -0.11558278190000726,
+            "CI_low": -0.1556818409523144,
+            "CI_high": -0.07715490743976794
+        },
+        "two kisses for maddy: a memoir of loss & love": {
+            "title": "two kisses for maddy: a memoir of loss & love",
+            "ATE": -0.41611766376964354,
+            "CI_low": -0.5148606456454643,
+            "CI_high": -0.3425336298207031
+        },
+        "horoscopes for the dead": {
+            "title": "horoscopes for the dead",
+            "ATE": -0.026851179780810863,
+            "CI_low": -0.06842275054717195,
+            "CI_high": 0.019367803543077322
+        },
+        "11/22/63": {
+            "title": "11/22/63",
+            "ATE": 0.04674089107108159,
+            "CI_low": -0.09695210328409676,
+            "CI_high": 0.1355030027275017
+        },
+        "where she went": {
+            "title": "where she went",
+            "ATE": -0.32326900077538223,
+            "CI_low": -0.376306464549097,
+            "CI_high": -0.26821977288896015
+        },
+        "when i grow up": {
+            "title": "when i grow up",
+            "ATE": 0.05073206144647502,
+            "CI_low": 0.014130708837665207,
+            "CI_high": 0.07908340437255079
+        },
+        "little princes: one man's promise to bring home the lost children of nepal": {
+            "title": "little princes: one man's promise to bring home the lost children of nepal",
+            "ATE": -0.06491283962498784,
+            "CI_low": -0.07922677604583672,
+            "CI_high": -0.051644722334266646
+        },
+        "the mark of athena": {
+            "title": "the mark of athena",
+            "ATE": -0.6101214638724253,
+            "CI_low": -0.7426301756883031,
+            "CI_high": -0.5261096306552417
+        },
+        "the casual vacancy": {
+            "title": "the casual vacancy",
+            "ATE": 0.22170171026857588,
+            "CI_low": 0.1229549458928032,
+            "CI_high": 0.31667972693658086
+        },
+        "the walking dead, vol. 16: a larger world": {
+            "title": "the walking dead, vol. 16: a larger world",
+            "ATE": 0.19397595116187505,
+            "CI_low": 0.02577442529474805,
+            "CI_high": 0.3339315506475766
+        },
+        "the light between oceans": {
+            "title": "the light between oceans",
+            "ATE": -0.11461562414550208,
+            "CI_low": -0.14746130608845753,
+            "CI_high": -0.08117798441810686
+        },
+        "the twelve": {
+            "title": "the twelve",
+            "ATE": 0.016647214439849733,
+            "CI_low": -0.025009415632801346,
+            "CI_high": 0.052523291897350166
+        },
+        "let's pretend this never happened": {
+            "title": "let's pretend this never happened",
+            "ATE": -0.20436707701738133,
+            "CI_low": -0.2438563883117273,
+            "CI_high": -0.1659581093537006
+        },
+        "wild: from lost to found on the pacific crest trail": {
+            "title": "wild: from lost to found on the pacific crest trail",
+            "ATE": -0.21850110092195063,
+            "CI_low": -0.3103243772508182,
+            "CI_high": -0.11299687405582892
+        },
+        "gone girl": {
+            "title": "gone girl",
+            "ATE": -0.18491482471766574,
+            "CI_low": -0.22581224194541782,
+            "CI_high": -0.13852432599657494
+        },
+        "quiet: the power of introverts in a world that can't stop talking": {
+            "title": "quiet: the power of introverts in a world that can't stop talking",
+            "ATE": -0.029170854002646962,
+            "CI_low": -0.04102753450302066,
+            "CI_high": -0.01871611924563865
+        },
+        "the long earth": {
+            "title": "the long earth",
+            "ATE": -0.23918389398024287,
+            "CI_low": -0.4579764567090918,
+            "CI_high": -0.004621634927219009
+        },
+        "the fault in our stars": {
+            "title": "the fault in our stars",
+            "ATE": -0.15960557623515115,
+            "CI_low": -0.1800587334031878,
+            "CI_high": -0.14034761502110182
+        },
+        "the pioneer woman cooks: recipes from an accidental country girl": {
+            "title": "the pioneer woman cooks: recipes from an accidental country girl",
+            "ATE": 0.0019461768954274206,
+            "CI_low": -0.006433780824168345,
+            "CI_high": 0.009997969318091826
+        },
+        "shadow of night": {
+            "title": "shadow of night",
+            "ATE": 0.36854682071628675,
+            "CI_low": -0.006553541311017597,
+            "CI_high": 0.7437954445732498
+        },
+        "olivia and the fairy princesses": {
+            "title": "olivia and the fairy princesses",
+            "ATE": -0.20733141351280704,
+            "CI_low": -0.6112521831976876,
+            "CI_high": 0.0022415443484380404
+        },
+        "the house of hades": {
+            "title": "the house of hades",
+            "ATE": -0.452726623825523,
+            "CI_low": -0.6900827543118035,
+            "CI_high": -0.25336082371631097
+        },
+        "the ocean at the end of the lane": {
+            "title": "the ocean at the end of the lane",
+            "ATE": -0.11341488306672876,
+            "CI_low": -0.15427605489205654,
+            "CI_high": -0.07025348748650284
+        },
+        "and the mountains echoed": {
+            "title": "and the mountains echoed",
+            "ATE": -0.06582680347982883,
+            "CI_low": -0.07947597752851854,
+            "CI_high": -0.05023828069993019
+        },
+        "tangled": {
+            "title": "tangled",
+            "ATE": 0.19483333360241728,
+            "CI_low": 0.18155651217360713,
+            "CI_high": 0.20988281856326152
+        },
+        "beautiful creatures": {
+            "title": "beautiful creatures",
+            "ATE": 0.09038698076516338,
+            "CI_low": 0.05888243413808203,
+            "CI_high": 0.12099995896346183
+        },
+        "life after life": {
+            "title": "life after life",
+            "ATE": -0.1116244523094041,
+            "CI_low": -0.15107675649855468,
+            "CI_high": -0.06173257738529703
+        },
+        "jim henson: the biography": {
+            "title": "jim henson: the biography",
+            "ATE": -0.1746020490557907,
+            "CI_low": -0.2844747382920447,
+            "CI_high": 0.06334080915503293
+        },
+        "doctor sleep": {
+            "title": "doctor sleep",
+            "ATE": 0.09268882918392585,
+            "CI_low": 0.00988152364124284,
+            "CI_high": 0.19301436208393064
+        },
+        "inferno": {
+            "title": "inferno",
+            "ATE": 0.01676209569676912,
+            "CI_low": -0.030623041979581878,
+            "CI_high": 0.0607898967786622
+        },
+        "the autistic brain: thinking across the spectrum": {
+            "title": "the autistic brain: thinking across the spectrum",
+            "ATE": 0.18758150866815448,
+            "CI_low": 0.10304332872407596,
+            "CI_high": 0.2759692166240688
+        },
+        "the fall of arthur": {
+            "title": "the fall of arthur",
+            "ATE": -0.6170198297730729,
+            "CI_low": -0.7477315820472485,
+            "CI_high": -0.4719193054107822
+        },
+        "maddaddam": {
+            "title": "maddaddam",
+            "ATE": 0.018000877618602473,
+            "CI_low": -0.09641307377207342,
+            "CI_high": 0.13628370139062795
+        },
+        "allegiant": {
+            "title": "allegiant",
+            "ATE": -0.8921385601897658,
+            "CI_low": -1.039878008142069,
+            "CI_high": -0.7442962432526543
+        },
+        "eleanor & park": {
+            "title": "eleanor & park",
+            "ATE": -0.08218434862335311,
+            "CI_low": -0.09389593019191356,
+            "CI_high": -0.06733555345344477
+        },
+        "tequila mockingbird: cocktails with a literary twist": {
+            "title": "tequila mockingbird: cocktails with a literary twist",
+            "ATE": 0.28986225236783714,
+            "CI_low": 0.16325808668942532,
+            "CI_high": 0.3966412450969372
+        },
+        "cold days": {
+            "title": "cold days",
+            "ATE": -0.08548950682809453,
+            "CI_low": -0.14434365451361053,
+            "CI_high": -0.030827502117078076
+        },
+        "the day the crayons quit": {
+            "title": "the day the crayons quit",
+            "ATE": -0.08169993180510815,
+            "CI_low": -0.14990956238868236,
+            "CI_high": 0.02591725251475374
+        },
+        "the blood of olympus": {
+            "title": "the blood of olympus",
+            "ATE": -0.19305563449967078,
+            "CI_low": -0.3118363317115156,
+            "CI_high": -0.019397375169283748
+        },
+        "the book of life": {
+            "title": "the book of life",
+            "ATE": -0.13454182474500076,
+            "CI_low": -0.1770114269069203,
+            "CI_high": -0.09880842167868353
+        },
+        "landline": {
+            "title": "landline",
+            "ATE": -0.19744323499907912,
+            "CI_low": -0.22748705875163822,
+            "CI_high": -0.17468847547828537
+        },
+        "red rising": {
+            "title": "red rising",
+            "ATE": -0.32198835912496504,
+            "CI_low": -0.536198743646346,
+            "CI_high": -0.13412620473544523
+        },
+        "all the light we cannot see": {
+            "title": "all the light we cannot see",
+            "ATE": -0.056191099196396976,
+            "CI_low": -0.06589007113406442,
+            "CI_high": -0.04610810957919664
+        },
+        "the romanov sisters": {
+            "title": "the romanov sisters",
+            "ATE": -0.43301484748246644,
+            "CI_low": -0.5906436924603033,
+            "CI_high": -0.36602969496493465
+        },
+        "yes please": {
+            "title": "yes please",
+            "ATE": -0.10448758031199024,
+            "CI_low": -0.17066960908990403,
+            "CI_high": -0.049006757135724666
+        },
+        "this star won't go out": {
+            "title": "this star won't go out",
+            "ATE": -0.31074383809478245,
+            "CI_low": -0.4164630158402032,
+            "CI_high": -0.18279202731209843
+        },
+        "lullabies": {
+            "title": "lullabies",
+            "ATE": -0.7503059240727259,
+            "CI_low": -1.0901602785942681,
+            "CI_high": -0.3447811030564756
+        },
+        "written in my own heart's blood": {
+            "title": "written in my own heart's blood",
+            "ATE": -0.29913050614239545,
+            "CI_low": -0.4150166044587156,
+            "CI_high": -0.13894167357267584
+        },
+        "the martian": {
+            "title": "the martian",
+            "ATE": -0.0765941776628809,
+            "CI_low": -0.10269243713056841,
+            "CI_high": -0.04566215980314414
+        },
+        "we were liars": {
+            "title": "we were liars",
+            "ATE": -0.0380952777566268,
+            "CI_low": -0.07607494909755186,
+            "CI_high": -0.0011781397856185372
+        },
+        "#girlboss": {
+            "title": "#girlboss",
+            "ATE": 0.1733808262683434,
+            "CI_low": -0.20007924195608373,
+            "CI_high": 0.3652019351439755
+        },
+        "go set a watchman": {
+            "title": "go set a watchman",
+            "ATE": 0.03840032123086834,
+            "CI_low": -0.03465436581933412,
+            "CI_high": 0.10789694032292685
+        },
+        "red queen": {
+            "title": "red queen",
+            "ATE": 0.2711961425087832,
+            "CI_low": 0.1928710440823469,
+            "CI_high": 0.350472547555412
+        },
+        "the nightingale": {
+            "title": "the nightingale",
+            "ATE": -0.0319479444350117,
+            "CI_low": -0.041218951508877666,
+            "CI_high": -0.02107886581366536
+        },
+        "dead wake: the last crossing of the lusitania": {
+            "title": "dead wake: the last crossing of the lusitania",
+            "ATE": -0.06861265976599284,
+            "CI_low": -0.08638308992181987,
+            "CI_high": -0.047894009521580294
+        },
+        "why not me?": {
+            "title": "why not me?",
+            "ATE": -0.1354557312370912,
+            "CI_low": -0.17644125481964146,
+            "CI_high": -0.09412877898397376
+        },
+        "a work in progress": {
+            "title": "a work in progress",
+            "ATE": -0.18793640841983184,
+            "CI_low": -0.2163918203514532,
+            "CI_high": -0.16051372150570664
+        },
+        "the girl on the train": {
+            "title": "the girl on the train",
+            "ATE": -0.08417361508630128,
+            "CI_low": -0.10722782156642285,
+            "CI_high": -0.058393089408645515
+        },
+        "modern romance: an investigation": {
+            "title": "modern romance: an investigation",
+            "ATE": -0.1570625369525782,
+            "CI_low": -0.22655324986668468,
+            "CI_high": -0.08100380091140646
+        },
+        "confess": {
+            "title": "confess",
+            "ATE": -0.07023008398630814,
+            "CI_low": -0.08353040751380636,
+            "CI_high": -0.05572637440453132
+        },
+        "golden son": {
+            "title": "golden son",
+            "ATE": -0.11934181853406312,
+            "CI_low": -0.19602249546906503,
+            "CI_high": -0.051100285932869305
+        },
+        "all the bright places": {
+            "title": "all the bright places",
+            "ATE": -0.040053471944789365,
+            "CI_low": -0.04682116718527585,
+            "CI_high": -0.03329714081841573
+        },
+        "the day the crayons came home": {
+            "title": "the day the crayons came home",
+            "ATE": -0.14194756151305477,
+            "CI_low": -0.21572316279530757,
+            "CI_high": -0.08069261266324101
+        },
+        "beneath the surface: killer whales, seaworld, and the truth beyond blackfish": {
+            "title": "beneath the surface: killer whales, seaworld, and the truth beyond blackfish",
+            "ATE": -0.05294646337282671,
+            "CI_low": -0.09245832932155285,
+            "CI_high": -0.013829876785247386
+        }
+    },
+    "Women's Prize for Fiction": {
+        "home": {
+            "title": "home",
+            "ATE": 0.6252337561420678,
+            "CI_low": 0.4638420658510092,
+            "CI_high": 0.8181638782292322
+        },
+        "the lacuna": {
+            "title": "the lacuna",
+            "ATE": 0.08236321862348372,
+            "CI_low": 0.022204045018066942,
+            "CI_high": 0.12178325387316624
+        },
+        "the tiger's wife": {
+            "title": "the tiger's wife",
+            "ATE": -0.11629342270392717,
+            "CI_low": -0.22427062779893525,
+            "CI_high": 0.016260543937013594
+        },
+        "the song of achilles": {
+            "title": "the song of achilles",
+            "ATE": -0.04796184094482392,
+            "CI_low": -0.10897943256239007,
+            "CI_high": 0.006418310817233319
+        },
+        "may we be forgiven": {
+            "title": "may we be forgiven",
+            "ATE": -0.085613026242084,
+            "CI_low": -0.22268622685627504,
+            "CI_high": 0.14340157901587647
+        },
+        "a girl is a half-formed thing": {
+            "title": "a girl is a half-formed thing",
+            "ATE": -0.5628301129035242,
+            "CI_low": -0.6960103159404274,
+            "CI_high": -0.41094453326753033
+        },
+        "how to be both": {
+            "title": "how to be both",
+            "ATE": -0.0843165657133298,
+            "CI_low": -0.2732331193522035,
+            "CI_high": 0.07536321369639376
+        }
+    },
+    "National Book Award for Fiction": {
+        "let the great world spin": {
+            "title": "let the great world spin",
+            "ATE": 0.0825680000478397,
+            "CI_low": 0.004752031305909288,
+            "CI_high": 0.1719410967080326
+        },
+        "the round house": {
+            "title": "the round house",
+            "ATE": 0.20064363470346702,
+            "CI_low": -0.4113936986083546,
+            "CI_high": 0.5961690966415176
+        },
+        "the good lord bird": {
+            "title": "the good lord bird",
+            "ATE": -0.19177231040867682,
+            "CI_low": -0.43529468462109255,
+            "CI_high": 0.15526408957268734
+        },
+        "redeployment": {
+            "title": "redeployment",
+            "ATE": -0.16820530628937558,
+            "CI_low": -0.22821825227600057,
+            "CI_high": -0.1074743627704815
+        }
+    },
+    "Nebula Award": {
+        "annihilation": {
+            "title": "annihilation",
+            "ATE": 0.4816188806910753,
+            "CI_low": 0.2923519771324474,
+            "CI_high": 0.6364647975511315
+        },
+        "2312": {
+            "title": "2312",
+            "ATE": -0.01750452401007685,
+            "CI_low": -0.0256719342242282,
+            "CI_high": -0.009196873212828027
+        },
+        "among others": {
+            "title": "among others",
+            "ATE": -0.22210281915496077,
+            "CI_low": -0.25984629865904907,
+            "CI_high": -0.16948782860746547
+        },
+        "the windup girl": {
+            "title": "the windup girl",
+            "ATE": 0.030338870464103884,
+            "CI_low": -0.15707104154362028,
+            "CI_high": 0.19016463267817807
+        },
+        "powers": {
+            "title": "powers",
+            "ATE": -0.6254912057695963,
+            "CI_low": -0.6707827617839133,
+            "CI_high": -0.593313639172071
+        }
+    }
+}
