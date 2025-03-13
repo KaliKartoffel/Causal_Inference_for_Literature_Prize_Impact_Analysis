@@ -1,4 +1,4 @@
-# Causal Inference for Prize Impact Analysis
+# Causal Inference for Literature Prize Impact Analysis
 
 This project analyzes the causal impact of winning literary prizes (e.g., Hugo Award, Booker Prize, Nobel Prize) on Goodreads reviews and ratings. Using advanced causal inference techniques, we estimate the **Average Treatment Effect (ATE)** of winning a prize by comparing prize-winning books to matched control groups.
 
